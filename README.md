@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KianPinocchio aka Ali :)
+- 👋 Hi, I’m Ali :)
 - 👀 I’m interested in R and data analysis. I'm also interested in the scientific method, philosophy and history of science :)
 - 📚 I’m currently studying MA of Psychology at ELTE university of Budapest
 - 🤝 I’m looking to collaborate on any study where my novice skills can be useful and that I can also learn from other
